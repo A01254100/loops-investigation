@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="5BfL34Qf(Fn}CmgJ|~{X" x="314" y="-65"><statement name="HANDLER"><block type="controls_repeat_ext" id=";TdY3|RWzTV_WA*hJP0w"><value name="TIMES"><shadow type="math_whole_number" id="?-hlk^|ua.2=e90L{Bn1"><field name="NUM">3</field></shadow></value><statement name="DO"><block type="device_show_leds" id="anGnzKK?5;A{eilnHu7."><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="device_pause" id="PA[S0tr4R]:TRjN%BdFG"><value name="pause"><shadow type="timePicker" id="~Hw)LlK;/M=8UgiLn]%A"><field name="ms">2000</field></shadow></value><next><block type="device_show_leds" id="en7blSS]}sb5u{jW8eBW"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        . # # # . 
+        # . . . #
+        `</field><next><block type="device_pause" id="UATYO;pnfY[-$px+xrQK"><value name="pause"><shadow type="timePicker" id="M;t*RwGXW)qJ,5k[`]}s"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></statement><next><block type="controls_repeat_ext" id="lKag${H%s]S@wmj^Wh0+"><value name="TIMES"><shadow type="math_whole_number" id="3RCM1SdqZ,l{igZ7WhE6"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="zbB^y61utjRjIk=@ohKu"><field name="LEDS">`
+        . # # . . 
+        # # # . . 
+        . # # # # 
+        . # # # . 
+        . . . . .
+        `</field><next><block type="device_pause" id="CbTdV7Z2YwMp3C/-utr1"><value name="pause"><shadow type="timePicker" id="])].Hr[TBW|tj$vjYq9j"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="UN*8-9e:xXPrmxr(,2~C"><field name="LEDS">`
+        # # . . . 
+        . # . . . 
+        . # # # . 
+        . # . # . 
+        . # . # .
+        `</field><next><block type="device_pause" id="@I32AyU_t}@Q!VD@XTR0"><value name="pause"><shadow type="timePicker" id="`DMa}IqcioG[[O-[itr9"><field name="ms">500</field></shadow></value></block></next></block></next></block></next></block></statement></block></next></block></statement></block></xml>
